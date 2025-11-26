@@ -4,6 +4,7 @@ Project Overview:
 
 Loads two poem datasets (ABIEMO_2334.csv, BAPEMO_6346.csv)
 Cleans poem text and merges the datasets.
+
 Extracts text embeddings using DistilRoBERTa.
 Finds the most similar poem for the given emotion.
 Feeds the retrieved poem into GPT-2 to generate a new poem.
