@@ -1,4 +1,5 @@
 A deep learning project that generates poems based on a given emotion by using similarity-based poem retrieval + GPT-2 poem generation.
+
 Project Overview:
 Loads two poem datasets (ABIEMO_2334.csv, BAPEMO_6346.csv)
 Cleans poem text and merges the datasets.
