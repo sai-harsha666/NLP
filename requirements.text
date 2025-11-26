@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+torch
+transformers
+streamlit
+huggingface-hub
+regex
+sentencepiece
+accelerate
+tqdm
